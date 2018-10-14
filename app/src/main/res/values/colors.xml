@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>-->
+    <color name="colorPrimary">@color/blackColor</color>
+    <color name="colorAccent">@color/goldColor</color>
+    <color name="colorPrimaryDark">#29313f</color>
+
+    <color name="readingListFontColor">#ff3333</color>
+    <color name="readingListBackgroundColor">#fef0e7</color>
+    <color name="blackColor">#0d0d0d</color>
+    <color name="goldColor">#e6b800</color>
+</resources>
